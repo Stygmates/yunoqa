@@ -2,7 +2,7 @@
 package="yunoqa"
 version="0.1"
 
-variables=(LUA_VERSION 5.1)
+variables=(LUA_VERSION 5.3)
 
 # FIXME: .in for PREFIX substitutions.
 targets=(yunoqa.moon)
